@@ -1,4 +1,4 @@
-# DentalSea-FYP 
+# DentalSEA-FYP-22-S2-26
 
 # Project Requirement
 This project aims to develop a web application for managing records of
@@ -54,7 +54,21 @@ Trailer video link: https://www.youtube.com/watch?v=soOnXqnvphQ
 
 Google drive link for files: https://drive.google.com/drive/folders/168I5MqVHq_uNfeIF839mlIlTl9S-Ryio?usp=sharing
 
-# SET UP
+# Project development methodology
+Scrum 2 weeks sprints.
+For more information please access the google drive link above for the documentations. Open FYP-22-S2-26 - Technical Manual.pdf and go to page 40.
+# Project development tools
+Frontend: Bootstrap
+Backend: PHP
+Database: MySQL
+Repository: GitHub
+For more information please access the google drive link above for the documentations. Open FYP-22-S2-26 - Technical Manual.pdf and go to page 40 and 41.
+
+# Set up and user manual
+Please access the google drive link above for the documentations. Open FYP-22-S2-26 - User Manual.pdf and follow accordingly.
+
+
+
 
 
 
