@@ -1,0 +1,50 @@
+:root {
+  --main-color: #1d1b31;
+}
+
+.navBar {
+  position: fixed;
+  z-index: 100;
+  bottom: 0;
+  background-color: var(--main-color);
+  width: 100vw;
+  padding: 0.5em;
+}
+
+.navList {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 0.1em;
+}
+
+.navList-item {
+  width: 50px;
+}
+
+.navList-item:hover,
+.navList-item:active {
+    transform: scale(1.1);
+}
+
+.item-link {
+  text-decoration: none;
+  color: #fffffc;
+  transition: 0.3s;
+}
+
+.item-link:hover,
+.item-link:active {
+    color: #ccdbfd;
+}
+
+.item-name {
+  display: block;
+  font-size: 0.4rem;
+}
+
+@media (min-width: 550px) {
+    .navBar {
+        display: none;
+    }
+}
