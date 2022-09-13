@@ -5,12 +5,14 @@ This project aims to develop a web application for managing records of
 customers of a dental centre. The application will be used by administrators to
 manage historical records of those who use dental services provided by the
 centre.
+
 The web application needs to provide an UI for administrators to:
 - Search for a patient profile based on their identity, e.g, Medicare card,
 or date of birth, or name, etc.
 - Add a new patient profile
 - Edit/Delete an existing patient profile
 - Produce a bill of each service used by the customer
+
 A database system is required to manage dental health records of customers.
 Each patient profile needs to include the following information:
 - Personal information of the customer
@@ -23,6 +25,7 @@ Each patient profile needs to include the following information:
 for treatment
 - Information of doctors ad related dental assistants are responsible for
 each treatment
+
 This application will help the administrators to quickly search for existing
 customers as well as provide essential information for doctors to prepare for
 new treatments to customers or remind them to periodically have dental care.
