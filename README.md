@@ -34,8 +34,9 @@ service used by the customer and link the service to the customer’s Medicare
 ID.
 
 # Team member
-** Group number: FYP-22-S2-26 **
-** Group name : DentalSEA **
+**Group number: FYP-22-S2-26**
+
+**Group name : DentalSEA**
 * Junior Tantono (Project Manager, documentation lead, database design, tester)
 * Chow Zhen Quan (Front and back end developer)
 * Lee Jun Kuan (Frontend developer, marketing website, trailer video, user video)
@@ -44,9 +45,13 @@ ID.
 
 # Project Links
 Project website link: https://dentalsea-fyp.com
+
 Marketing website link: https://dentalsea.netlify.app/index.html
+
 User guide video link: https://www.youtube.com/watch?v=tCC9YG9ToYY
+
 Trailer video link: https://www.youtube.com/watch?v=soOnXqnvphQ
+
 Google drive link for files: https://drive.google.com/drive/folders/168I5MqVHq_uNfeIF839mlIlTl9S-Ryio?usp=sharing
 
 # SET UP
